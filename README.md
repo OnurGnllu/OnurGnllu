@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, Merhaba Ben Onur</h1>
+
 
 - 📫 Ulaşmak isteyenler **onur95rt@gmail.com**
 
