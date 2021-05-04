@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Merhaba Ben Onur</h1>
+<h1 align="center"> Merhaba Ben Onur</h1>
 
 
 - 📫 Ulaşmak isteyenler **onur95rt@gmail.com**
