@@ -1,4 +1,5 @@
-- 📫 How to reach me **onur95rt@gmail.com**
+Hello friends
+I am a student of electrical and electronics engineering. I am interested in electronic projects, studies and software. The works and codes I share here are entirely mine.
 
 
 <h3 align="left">Languages and Tools:</h3>
