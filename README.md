@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **onur95rt@gmail.com**
+- 📫 Ulaşmak isteyenler **onur95rt@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
