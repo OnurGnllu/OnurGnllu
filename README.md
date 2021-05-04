@@ -1,6 +1,6 @@
 Hello friends
 
-I am a student of electrical and electronics engineering. I am interested in electronic projects, studies and software. The works and codes I share here are entirely mine.
+I am a student of Electrical and Electronics Engineering. I am interested in electronic projects, studies and software. The works and codes I share here are entirely mine.
 
 
 <h3 align="left">Which languages do i work with :</h3>
