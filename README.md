@@ -12,3 +12,12 @@ I am a student of Electrical and Electronics Engineering. I am interested in ele
 
 
 
+Ödev tamamlandı ve simülasyonlar başarıl şekilde çalıştırıldı.
+Arkadaşlar beğenirseniz lütfen yıldızlamayı unutmayın. :)
+Bu arada herkese Hayırlı Kandiller.
+
+Ödev tamamlandı ve simülasyonlar başarıl şekilde çalıştırıldı.
+Arkadaşlar beğenirseniz lütfen yıldızlamayı unutmayın. :)
+Bu arada herkese Hayırlı Kandiller.
+
+<a href="https://github.com/OnurGnllu/JavaCamp/tree/main/Camphomework5"> SANALKURS.NET </a>
