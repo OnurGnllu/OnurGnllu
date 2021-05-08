@@ -3,7 +3,7 @@ Hello friends
 I am a student of Electrical and Electronics Engineering. I am interested in electronic projects, studies and software. The works and codes I share here are entirely mine.
 
 
-<a href="onur95rt@gmail.com">
+<a href="mailto:onur95rt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
