@@ -20,4 +20,4 @@ Bu arada herkese Hayırlı Kandiller.
 Arkadaşlar beğenirseniz lütfen yıldızlamayı unutmayın. :)
 Bu arada herkese Hayırlı Kandiller.
 
-<a href="https://github.com/OnurGnllu/JavaCamp/tree/main/Camphomework5"> SANALKURS.NET </a>
+<a href="https://github.com/OnurGnllu/JavaCamp/tree/main/Camphomework5"> Github-Homework5 </a>
