@@ -18,10 +18,8 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.st.com/en/microcontrollers-and-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/STMicroelectronics_logo.svg/1200px-STMicroelectronics_logo.svg.png" alt="STM32" width="40" height="40"/>
-  </a>
 </p>
+
 
 
 
