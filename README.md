@@ -1,6 +1,3 @@
-Hello friends
-
-I am a student of Electrical and Electronics Engineering. I am interested in electronic projects, studies and software. The works and codes I share here are entirely mine.
 
 
 <a href="mailto:onur95rt@gmail.com">
@@ -13,7 +10,7 @@ I am a student of Electrical and Electronics Engineering. I am interested in ele
 
 
 
-<a href="https://github.com/OnurGnllu?tab=repositories">ClickformyRepositories </a>
+<a href="https://github.com/OnurGnllu?tab=repositories">MyRepositories </a>
 
 
 
